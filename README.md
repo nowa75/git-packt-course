@@ -1,7 +1,7 @@
 ## git-packt-course
-# new branch!
+# on branch `master`
 gcb &lt;title&gt; 
 
-test change on master
+change on master <code>(resolving conflict?)</code>
 
 &copy; 2018-12-26 by MIN
