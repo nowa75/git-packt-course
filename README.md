@@ -2,7 +2,9 @@
 # on branch `master`
 gcb &lt;title&gt; 
 
-change on master <code>(resolving conflict?)</code>
+change on master <code>(resolving conflict?)</code> 
+adding a line for rebasing example. 
+
 
 change on `realwork` branch 
 
