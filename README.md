@@ -3,7 +3,8 @@
 gcb &lt;title&gt; 
 
 change on master <code>(resolving conflict?)</code> 
-adding a line for rebasing example. 
+adding a line for rebasing example. Then more changes on `myfeatures` branch. 
+
 
 
 change on `realwork` branch 
