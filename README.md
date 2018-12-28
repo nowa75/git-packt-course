@@ -7,6 +7,6 @@ adding a line for rebasing example. Then more changes on `myfeatures` branch.
 
 change from orgin/master (github)
 
-change on `realwork` branch 
+mb change
 
 &copy; 2018-12-26 by MIN
