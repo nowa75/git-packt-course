@@ -1,4 +1,6 @@
 Test Git Quick Start demo
 Test Git modify start
 
+Adding line before rebase conflicts
+
 © 2018-12-26 by MIN
