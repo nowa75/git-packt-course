@@ -1,5 +1,5 @@
 # git-packt-course
-## updating subtitle for another stash -u (with additional untracked file) 
+## updating subtitle for another stash to branch 
 gcb &lt;title&gt; 
 
 change on master <code>(resolving conflict?)</code> 
