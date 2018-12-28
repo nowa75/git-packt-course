@@ -1,5 +1,5 @@
-## git-packt-course
-# on branch `master`
+# git-packt-course
+## updating subtitle for stash example and continue editing...
 gcb &lt;title&gt; 
 
 change on master <code>(resolving conflict?)</code> 
