@@ -1,8 +1,9 @@
 Test Git Quick Start demo
 Test Git modify start
 
-change from mb
+branch bigtrouble
 
-another line mb
+another line
+change from mb
 
 © 2018-12-26 by MIN
